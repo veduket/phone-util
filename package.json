@@ -1,0 +1,22 @@
+{
+  "name": "phone-util",
+  "version": "1.0.0",
+  "description": "Phone utility functions, formatter for Ethiopian phone numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veduket/phone-util.git"
+  },
+  "keywords": [
+    "phonetools"
+  ],
+  "author": "Yared Getachew <veduket@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veduket/phone-util/issues"
+  },
+  "homepage": "https://github.com/veduket/phone-util#readme"
+}
